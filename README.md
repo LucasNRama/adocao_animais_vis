@@ -46,4 +46,6 @@ Fornecer uma narrativa visual clara e interativa que:
 pip install dash pandas plotly
 
 # Rode o aplicativo
-python app.py
+python adocoes_por_ano.py
+python adocoes_por_estado.py
+python animais_resgatados.py
